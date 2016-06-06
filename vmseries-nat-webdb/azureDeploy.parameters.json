@@ -27,7 +27,7 @@
       "value": "<Your Source IP for Default NSG>"
     },
     "IPAddressPrefix": {
-      "value": "192.168"
+      "value": "172.30"
     }
   }
 }
